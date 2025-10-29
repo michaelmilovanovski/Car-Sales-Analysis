@@ -25,7 +25,7 @@ This project analyzes U.S. car sales data (from Kaggle) using **SQL** for data p
 - **Python (pandas, seaborn, matplotlib)** – visualization and exploratory analysis  
 
 **Steps Taken:**
-1. Cleaned and filtered the dataset to include **2015–2020** data.  
+1. Cleaned and filtered the dataset to include **2015** data.  
 2. Created summary tables through SQL queries.  
 3. Built polished visualizations to interpret trends clearly.  
 
